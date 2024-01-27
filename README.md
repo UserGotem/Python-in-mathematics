@@ -29,8 +29,8 @@ This project showcases three Python notebooks that delve into various mathematic
 
 ## Technical Implementation
 
-* Python's libraries, including `numpy`, `pandas`, `scikit-learn`, and `nltk`, were used to develop the notebooks.
-* `numpy` and `pandas` handled data manipulation and analysis tasks.
+* Python's libraries, including `numpy`, `scikit-learn`, and `nltk`, were used to develop the notebooks.
+* `numpy` handled data manipulation and analysis tasks.
 
 * `scikit-learn` was employed for machine learning algorithms and classification tasks.
 * `nltk` was used for natural language processing and text analysis.
