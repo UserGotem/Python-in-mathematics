@@ -41,5 +41,6 @@ This project showcases three Python notebooks that delve into various mathematic
 * The examination of equation solving strategies revealed patterns in student approaches and suggested areas for improvement.
 
 ## Visualizations and Screenshots
+![Näyttökuva 2024-01-27 191901](https://github.com/UserGotem/Python-in-mathematics/assets/123076970/31b18c1c-63b6-4b69-b8a0-ab8fcecf9504)
 
 
