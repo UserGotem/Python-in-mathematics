@@ -31,6 +31,7 @@ This project showcases three Python notebooks that delve into various mathematic
 
 * Python's libraries, including `numpy`, `pandas`, `scikit-learn`, and `nltk`, were used to develop the notebooks.
 * `numpy` and `pandas` handled data manipulation and analysis tasks.
+
 * `scikit-learn` was employed for machine learning algorithms and classification tasks.
 * `nltk` was used for natural language processing and text analysis.
 
@@ -43,4 +44,5 @@ This project showcases three Python notebooks that delve into various mathematic
 ## Visualizations and Screenshots
 ![Näyttökuva 2024-01-27 191901](https://github.com/UserGotem/Python-in-mathematics/assets/123076970/31b18c1c-63b6-4b69-b8a0-ab8fcecf9504)
 
+![Näyttökuva 2024-01-27 192026](https://github.com/UserGotem/Python-in-mathematics/assets/123076970/e18e4547-b3ec-42f2-96e3-a87938cb424f)
 
